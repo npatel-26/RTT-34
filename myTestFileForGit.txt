@@ -1,0 +1,1 @@
+THis is my test file to see how Git works Check out and Check in
