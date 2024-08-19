@@ -1,1 +1,2 @@
-THis is my test file to see how Git works Check out and Check in
+This is my test file to see how Git works Check out and Check in -- added more here to see diff.
+Adding another line to the file to create a version history
