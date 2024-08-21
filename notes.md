@@ -16,8 +16,8 @@ A brief summary of the topic
 ---
 
 ## Key Points
-- Point 1: 
-- Point 2: 
+- Point 1: This is the first point
+- Point 2: My second point
 - Point 3: 
 
 ---
