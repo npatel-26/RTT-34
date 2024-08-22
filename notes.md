@@ -16,7 +16,7 @@ A brief summary of the topic
 ---
 
 ## Key Points
-- Point 1: This is the first point
+- Point 1: This is the first point. Adding more.
 - Point 2: My second point
 - Point 3: 
 
