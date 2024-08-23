@@ -1,5 +1,5 @@
 #number of Bananas var
-numBananas = 0
+numBananas = 1
 #If there are 5 or more bananas print “I have a bunch of bananas.”
 #if there are 1–4 bananas print “I have a small bunch of bananas.”
 #If there are no bananas print “I have no bananas.”
